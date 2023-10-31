@@ -20,7 +20,6 @@ include './inc/db_close.php';
             </div>
             <p class="col-md-8 fs-4">Remaining Time for Registration</p>
             <h3 class="col-md-8 fs-4" id="counter"></h3>
-            <button class="btn btn-primary btn-lg" type="button">Example button</button>
         </div>
     </div>
 
